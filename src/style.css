@@ -1,0 +1,28 @@
+body {
+  background-color: blue;
+}
+.card {
+  background-color: #f4f4f4;
+  padding: 2px;
+  display: flex;
+  justify-content: space-between;
+}
+.list {
+  background-color: #fff;
+  width: 250px;
+  padding: 10px;
+  border-radius: 6px;
+}
+.list-toolbar {
+  display: flex;
+  justify-content: space-between;
+}
+.list-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.page-list {
+  display: flex;
+  gap: 4px;
+}
